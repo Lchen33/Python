@@ -1,0 +1,25 @@
+9:00am Daily Stand Up
+
+9:30am Group Daily Stand Ups
+
+9:45am Python Data Types
+
+11.00am Python Collections
+
+11:30am Group 1 Meeting
+
+11:45am Group 2 Meeting
+
+12:00am Group 3 Meeting
+
+12:15am Group 4 Meeting
+
+1:00pm Dinner
+
+2:00pm Python Conditionals
+
+3:00pm Python Iteration
+
+3:15pm Whole Class Meeting
+
+3:30pm Challenge Of The Day
